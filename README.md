@@ -54,7 +54,7 @@ Linking complete!
 
 ```
 $ cd ../bin
-$ ./Hello.x -i ../inp/input.dat
+$ ./Sin.x -i ../inp/input.dat
 ```
 
 
