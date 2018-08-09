@@ -36,7 +36,7 @@ d 0.3
 zip 파일을 다운로드 받아 압축을 풀거나 ```git clone``` 명령어를 이용하여, 프로젝트를 가져올 수 있습니다.
 
 ```
-$ git clone https://github.com/sp-edison/c_example_gnuplot.git
+$ git clone https://github.com/sp-edison/fortran_example_onedplot.git
 ```
 
 다운로드가 완료되면, ```fortran_example_onedplot``` 폴더가 생성되며, **src** 폴더로 이동하여 **make all** 명령어를 사용하면, 컴파일이 완료됩니다.
